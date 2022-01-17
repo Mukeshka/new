@@ -1,0 +1,17 @@
+D:\github\Sell\c# test\bin\Debug\netcoreapp2.1\c# test.deps.json
+D:\github\Sell\c# test\bin\Debug\netcoreapp2.1\c# test.runtimeconfig.json
+D:\github\Sell\c# test\bin\Debug\netcoreapp2.1\c# test.runtimeconfig.dev.json
+D:\github\Sell\c# test\bin\Debug\netcoreapp2.1\c# test.dll
+D:\github\Sell\c# test\bin\Debug\netcoreapp2.1\c# test.pdb
+D:\github\Sell\c# test\obj\Debug\netcoreapp2.1\c# test.csprojAssemblyReference.cache
+D:\github\Sell\c# test\obj\Debug\netcoreapp2.1\c# test.csproj.CoreCompileInputs.cache
+D:\github\Sell\c# test\obj\Debug\netcoreapp2.1\c# test.AssemblyInfoInputs.cache
+D:\github\Sell\c# test\obj\Debug\netcoreapp2.1\c# test.AssemblyInfo.cs
+D:\github\Sell\c# test\obj\Debug\netcoreapp2.1\c# test.dll
+D:\github\Sell\c# test\obj\Debug\netcoreapp2.1\c# test.pdb
+D:\github\Selenium\c# test\obj\Debug\netcoreapp2.1\c# test.csprojAssemblyReference.cache
+D:\github\Selenium\c# test\obj\Debug\netcoreapp2.1\c# test.csproj.CoreCompileInputs.cache
+D:\github\Selenium\c# test\obj\Debug\netcoreapp2.1\c# test.AssemblyInfoInputs.cache
+D:\github\Selenium\c# test\obj\Debug\netcoreapp2.1\c# test.AssemblyInfo.cs
+D:\github\Selenium\c# test\obj\Debug\netcoreapp2.1\c# test.dll
+D:\github\Selenium\c# test\obj\Debug\netcoreapp2.1\c# test.pdb

@@ -1,0 +1,68 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "9fe0f4cc1f1b327bc2cd81861d789e3c0475b07d"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "c# test/1.0.0": {
+        "dependencies": {
+          "Selenium.WebDriver": "4.0.0-alpha07",
+          "Selenium.WebDriver.ChromeDriver": "91.0.4472.10100"
+        },
+        "runtime": {
+          "c# test.dll": {}
+        }
+      },
+      "Newtonsoft.Json/12.0.2": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.2.23222"
+          }
+        }
+      },
+      "Selenium.WebDriver/4.0.0-alpha07": {
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.2"
+        },
+        "runtime": {
+          "lib/netstandard2.0/WebDriver.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.0.0"
+          }
+        }
+      },
+      "Selenium.WebDriver.ChromeDriver/91.0.4472.10100": {}
+    }
+  },
+  "libraries": {
+    "c# test/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Newtonsoft.Json/12.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rTK0s2EKlfHsQsH6Yx2smvcTCeyoDNgCW7FEYyV01drPlh2T243PR2DiDXqtC5N4GDm4Ma/lkxfW5a/4793vbA==",
+      "path": "newtonsoft.json/12.0.2",
+      "hashPath": "newtonsoft.json.12.0.2.nupkg.sha512"
+    },
+    "Selenium.WebDriver/4.0.0-alpha07": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-vEfFli2J+Tq4pXHzuy0eV1mlit3BcqVGcpbJd9sPliCSnTWwujfVIzTVpKdDeJqeRnWjAnR3hLjYLhfT5K28pg==",
+      "path": "selenium.webdriver/4.0.0-alpha07",
+      "hashPath": "selenium.webdriver.4.0.0-alpha07.nupkg.sha512"
+    },
+    "Selenium.WebDriver.ChromeDriver/91.0.4472.10100": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-RalhItuJ6BZdD9HHVUHdpgDP/NQAUrr1yEAHWet+Ww33wbcuei0A2sF4+9duKaLQuZO3lcid7pKe2+km3sOGBQ==",
+      "path": "selenium.webdriver.chromedriver/91.0.4472.10100",
+      "hashPath": "selenium.webdriver.chromedriver.91.0.4472.10100.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,45 @@
+            // // /html/body/div[1]/div/div[6]/div/div/div/a[2]/div/i
+            // //Console.WriteLine(d); v-text-field__slot
+
+            // WebDriverWait waitForElement = new WebDriverWait(driver, TimeSpan.FromSeconds(5));
+            // //Thread.Sleep(4000);
+
+            // driver.Url = "https://rxce.in/#/win";
+
+            // WebElement email = driver.FindElement(By.XPath("//html/body/div[1]/div/div[2]/main/div/div/form/div[1]/div/div[1]/div[2]/input"));
+
+            // Thread.Sleep(4000);
+
+        //     String baseUrl = "http://demo.guru99.com/test/login.html";					
+        // driver.Url = baseUrl;					
+
+        // // Get the WebElement corresponding to the Email Address(TextField)		
+        // IWebElement email = driver.FindElement(By.Id("email"));							
+
+        // // Get the WebElement corresponding to the Password Field		
+        // IWebElement password = driver.FindElement(By.Name("passwd"));							
+
+        // email.SendKeys("xxxx@gmail.com");					
+        // password.SendKeys("abcdefghlkjl");					
+        		
+         
+        // // Deleting values in the text box		
+        // email.Clear();			
+        // password.Clear();			
+        				
+
+        // // Find the submit button		
+        // IWebElement login = driver.FindElement(By.Id("SubmitLogin"));							
+                    		
+        // // Using click method to submit form		
+        // email.SendKeys("abcd@gmail.com");					
+        // password.SendKeys("abcdefghlkjl");					
+        // login.Click();			
+        		
+        		
+        // //using submit method to submit the form. Submit used on password field		
+        // driver.Url = baseUrl;					
+        // driver.FindElement(By.Id("email")).SendKeys("xxxx@gmail.com");							
+        // driver.FindElement(By.Name("passwd")).SendKeys("abcdefghlkjl");							
+        // driver.FindElement(By.Id("SubmitLogin")).Submit();		
+        
